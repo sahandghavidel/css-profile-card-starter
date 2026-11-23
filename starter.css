@@ -1,0 +1,18 @@
+/* Page setup for the tutorial */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #102840;
+  background: #eeebe7;
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  display: grid;
+  min-height: 100svh;
+  place-items: center;
+  padding: 24px 16px;
+}
